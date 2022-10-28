@@ -1,7 +1,8 @@
+.aws.env
+*.pt
+
 # Other folders
-mlruns/
-experiment/
-segmentation/
+models/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
